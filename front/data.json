@@ -1,0 +1,28 @@
+{
+  "__v": 0,
+  "_id": "67086b06e8f591a2712499c5",
+  "category": {
+    "__v": 0,
+    "_id": "670845c4e190366bac7ef958",
+    "category": "mobile",
+    "categoryDescription": "C'est une gamme de téléphone portable de dernière technologie, avec un prix abordable et accessible à tous",
+    "createdAt": "2024-10-10T21:23:16.363Z",
+    "updatedAt": "2024-10-10T21:23:16.363Z"
+  },
+  "createdAt": "2024-10-11T00:02:14.772Z",
+  "description": "Le Nokia X30 représente une amélioration considérable par rapport au X20, qui était déjà très bon. Pour un tel prix compétitif, il vaut le coup d’œil grâce à ses objectifs impressionnants, son design robuste et sa garantie de trois ans.HMD a décidé de faire des appareils photo le point central de sa série X et cela se ressent. C’est en grande partie grâce au solide capteur principal de 50 Mp appuyé par quelques logiciels intelligents comme le mode nuit et le Capture Fusion. Avec ce dernier, l’objectif principal et l’ultra-grand angle prennent une photo de la scène en simultané et fusionnent pour créer une image encore meilleure.",
+  "images": [
+    {
+      "_id": "67086b06e8f591a2712499c6",
+      "public_id": "iguhpr4hdu4zbbkzpfjf",
+      "url": "https://res.cloudinary.com/dw2yxpsnz/image/upload/v1728604934/iguhpr4hdu4zbbkzpfjf.jpg"
+    }
+  ],
+    "name": "Nokia X30 5G",
+    "numReviews": 0,
+    "price": 3500,
+    "rating": 0,
+    "reviews": [],
+    "stock": 2,
+    "updatedAt": "2024-10-11T00:02:14.772Z"
+}
